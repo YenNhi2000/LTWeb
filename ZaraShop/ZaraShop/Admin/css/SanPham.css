@@ -1,0 +1,149 @@
+﻿* {
+    color: #141414;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.container {
+    padding: 0 20px;
+    font-size: 13px;
+}
+
+.left {
+    float: left;
+    width: 260px;
+    border: 1px solid #dfdfdf;
+    min-height: 475px;
+    font-size: 15px;
+}
+
+    .left ul li {
+        padding: 10px 0;
+        padding-left: 20px;
+        list-style: none;
+        background-image: url('../images/arrow.png');
+        background-repeat: no-repeat;
+        background-position: -2px;
+        margin-left: -20px;
+    }
+
+        .left ul li a:hover {
+            color: #469fb5;
+        }
+
+.right {
+    float: right;
+    width: 1025px;
+    border: 1px solid #dfdfdf;
+    min-height: 450px;
+    font: 16px bold;
+}
+
+    .right .head {
+        background: #f9f9f9;
+        padding: 10px;
+        font-size: 18px;
+        font-weight: bold;
+        text-transform: uppercase;
+        border-top: 1px solid #dfdfdf;
+        border-bottom: 1px solid #dfdfdf;
+        text-align: center;
+    }
+
+        .right .head:first-child {
+            border-top: none;
+        }
+
+    .right .them a {
+        float: right;
+        padding: 10px;
+        color: #4769A4;
+        font-weight: bold;
+        background-image: url('../images/add.png');
+        background-repeat: no-repeat;
+        background-position: left;
+        padding-left: 25px;
+        display: inline-block;
+    }
+
+/*Thêm sản phẩm, thêm NSX*/
+.form {
+    padding: 15px;
+    margin-left: 200px;
+}
+
+.thongtin {
+    overflow: hidden;
+    padding-bottom: 10px;
+}
+
+.tenTruong {
+    float: left;
+    width: 130px;
+    line-height: 30px;
+}
+
+.nhap {
+    width: 890px;
+}
+
+.form input[type=text], .form input[type=number], .form textarea, .form input[type=tel] {
+    background: #FFF;
+    border: 1px solid #BDBCBC;
+    color: inherit;
+    font-family: inherit;
+    font-size: inherit;
+    height: 27px;
+    padding: 0 7px;
+    width: 45%;
+    outline: none;
+    font-size: 13px;
+}
+
+.form .btnThem, .btnSua, .btnHuy {
+    border: 0;
+    background: #555;
+    color: #FFF;
+    cursor: pointer;
+    padding: 6px 20px;
+    font-weight: bold;
+}
+
+.form .btnThem, .btnSua {
+    margin-left: 80px;
+    margin-right: 10px;
+}
+
+/*Danh sách sản phẩm*/
+.khungChuaBang {
+    padding: 10px;
+}
+
+.khungChuaBang .cotHinh {
+    text-align: center;
+    position: relative;
+    z-index: 1;
+}
+
+    .khungChuaBang .cotHinh .hinh {
+        max-width: 40px;
+        max-height: 40px;
+    }
+
+    .khungChuaBang .cotHinh .hinhHover {
+        max-width: 250px;
+        max-height: 250px;
+        display: none;
+        position: absolute;
+        z-index: 1;
+        top: 0;
+        left: 50px;
+    }
+
+    .khungChuaBang .cotHinh:hover .hinhHover {
+        display: inline-block;
+    }

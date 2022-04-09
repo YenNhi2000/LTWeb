@@ -1,0 +1,44 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+.main {
+    margin-bottom: 50px;
+}
+
+a{
+    color:#777;
+}
+
+#mid2 {
+    margin-left: 100px;
+    font-size: 16px;
+    color: #777;
+    margin-bottom: 15px;
+}
+
+h1 {
+    text-align: center;
+    text-transform:uppercase;
+    font-size: 38px;
+    opacity: .8;
+    margin: 40px;
+}
+
+.main > p {
+    text-align: center;
+    font-size: 16px;
+    opacity: .9;
+}
+
+.main > img {
+    width: 1050px;
+    height: 600px;
+    margin-left: 165px;
+    margin-top:15px;
+}
+
+.main > h3 {
+    text-align: center;
+    margin: 20px;
+    margin-bottom: 70px;
+}

@@ -1,0 +1,168 @@
+C:\Users\Quynh Nhu\Desktop\ZaraShop\ZaraShop\bin\ZaraShop.dll.config
+C:\Users\Quynh Nhu\Desktop\ZaraShop\ZaraShop\bin\ZaraShop.dll
+C:\Users\Quynh Nhu\Desktop\ZaraShop\ZaraShop\bin\ZaraShop.pdb
+C:\Users\Quynh Nhu\Desktop\ZaraShop\ZaraShop\bin\roslyn\csc.exe
+C:\Users\Quynh Nhu\Desktop\ZaraShop\ZaraShop\bin\roslyn\csc.exe.config
+C:\Users\Quynh Nhu\Desktop\ZaraShop\ZaraShop\bin\roslyn\csc.rsp
+C:\Users\Quynh Nhu\Desktop\ZaraShop\ZaraShop\bin\roslyn\csi.exe
+C:\Users\Quynh Nhu\Desktop\ZaraShop\ZaraShop\bin\roslyn\csi.exe.config
+C:\Users\Quynh Nhu\Desktop\ZaraShop\ZaraShop\bin\roslyn\csi.rsp
+C:\Users\Quynh Nhu\Desktop\ZaraShop\ZaraShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Quynh Nhu\Desktop\ZaraShop\ZaraShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Quynh Nhu\Desktop\ZaraShop\ZaraShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Quynh Nhu\Desktop\ZaraShop\ZaraShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Quynh Nhu\Desktop\ZaraShop\ZaraShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Quynh Nhu\Desktop\ZaraShop\ZaraShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Quynh Nhu\Desktop\ZaraShop\ZaraShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Quynh Nhu\Desktop\ZaraShop\ZaraShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Quynh Nhu\Desktop\ZaraShop\ZaraShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Quynh Nhu\Desktop\ZaraShop\ZaraShop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Quynh Nhu\Desktop\ZaraShop\ZaraShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Quynh Nhu\Desktop\ZaraShop\ZaraShop\bin\roslyn\System.AppContext.dll
+C:\Users\Quynh Nhu\Desktop\ZaraShop\ZaraShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Quynh Nhu\Desktop\ZaraShop\ZaraShop\bin\roslyn\System.Console.dll
+C:\Users\Quynh Nhu\Desktop\ZaraShop\ZaraShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Quynh Nhu\Desktop\ZaraShop\ZaraShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Quynh Nhu\Desktop\ZaraShop\ZaraShop\bin\roslyn\System.IO.Compression.dll
+C:\Users\Quynh Nhu\Desktop\ZaraShop\ZaraShop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Quynh Nhu\Desktop\ZaraShop\ZaraShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Quynh Nhu\Desktop\ZaraShop\ZaraShop\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Quynh Nhu\Desktop\ZaraShop\ZaraShop\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Quynh Nhu\Desktop\ZaraShop\ZaraShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Quynh Nhu\Desktop\ZaraShop\ZaraShop\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Quynh Nhu\Desktop\ZaraShop\ZaraShop\bin\roslyn\System.Security.Claims.dll
+C:\Users\Quynh Nhu\Desktop\ZaraShop\ZaraShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Quynh Nhu\Desktop\ZaraShop\ZaraShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Quynh Nhu\Desktop\ZaraShop\ZaraShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Quynh Nhu\Desktop\ZaraShop\ZaraShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Quynh Nhu\Desktop\ZaraShop\ZaraShop\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Quynh Nhu\Desktop\ZaraShop\ZaraShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Quynh Nhu\Desktop\ZaraShop\ZaraShop\bin\roslyn\System.ValueTuple.dll
+C:\Users\Quynh Nhu\Desktop\ZaraShop\ZaraShop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Quynh Nhu\Desktop\ZaraShop\ZaraShop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Quynh Nhu\Desktop\ZaraShop\ZaraShop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Quynh Nhu\Desktop\ZaraShop\ZaraShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Quynh Nhu\Desktop\ZaraShop\ZaraShop\bin\roslyn\vbc.exe
+C:\Users\Quynh Nhu\Desktop\ZaraShop\ZaraShop\bin\roslyn\vbc.exe.config
+C:\Users\Quynh Nhu\Desktop\ZaraShop\ZaraShop\bin\roslyn\vbc.rsp
+C:\Users\Quynh Nhu\Desktop\ZaraShop\ZaraShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Quynh Nhu\Desktop\ZaraShop\ZaraShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Quynh Nhu\Desktop\ZaraShop\ZaraShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Quynh Nhu\Desktop\ZaraShop\ZaraShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Quynh Nhu\Desktop\ZaraShop\ZaraShop\obj\Debug\ZaraShop.csprojAssemblyReference.cache
+C:\Users\Quynh Nhu\Desktop\ZaraShop\ZaraShop\obj\Debug\ZaraShop.csproj.CoreCompileInputs.cache
+C:\Users\Quynh Nhu\Desktop\ZaraShop\ZaraShop\obj\Debug\ZaraShop.csproj.CopyComplete
+C:\Users\Quynh Nhu\Desktop\ZaraShop\ZaraShop\obj\Debug\ZaraShop.dll
+C:\Users\Quynh Nhu\Desktop\ZaraShop\ZaraShop\obj\Debug\ZaraShop.pdb
+C:\Users\Quynh Nhu\Desktop\DACSN\ZaraShop\ZaraShop\bin\ZaraShop.dll.config
+C:\Users\Quynh Nhu\Desktop\DACSN\ZaraShop\ZaraShop\bin\ZaraShop.dll
+C:\Users\Quynh Nhu\Desktop\DACSN\ZaraShop\ZaraShop\bin\ZaraShop.pdb
+C:\Users\Quynh Nhu\Desktop\DACSN\ZaraShop\ZaraShop\bin\roslyn\csc.exe
+C:\Users\Quynh Nhu\Desktop\DACSN\ZaraShop\ZaraShop\bin\roslyn\csc.exe.config
+C:\Users\Quynh Nhu\Desktop\DACSN\ZaraShop\ZaraShop\bin\roslyn\csc.rsp
+C:\Users\Quynh Nhu\Desktop\DACSN\ZaraShop\ZaraShop\bin\roslyn\csi.exe
+C:\Users\Quynh Nhu\Desktop\DACSN\ZaraShop\ZaraShop\bin\roslyn\csi.exe.config
+C:\Users\Quynh Nhu\Desktop\DACSN\ZaraShop\ZaraShop\bin\roslyn\csi.rsp
+C:\Users\Quynh Nhu\Desktop\DACSN\ZaraShop\ZaraShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Quynh Nhu\Desktop\DACSN\ZaraShop\ZaraShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Quynh Nhu\Desktop\DACSN\ZaraShop\ZaraShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Quynh Nhu\Desktop\DACSN\ZaraShop\ZaraShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Quynh Nhu\Desktop\DACSN\ZaraShop\ZaraShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Quynh Nhu\Desktop\DACSN\ZaraShop\ZaraShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Quynh Nhu\Desktop\DACSN\ZaraShop\ZaraShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Quynh Nhu\Desktop\DACSN\ZaraShop\ZaraShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Quynh Nhu\Desktop\DACSN\ZaraShop\ZaraShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Quynh Nhu\Desktop\DACSN\ZaraShop\ZaraShop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Quynh Nhu\Desktop\DACSN\ZaraShop\ZaraShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Quynh Nhu\Desktop\DACSN\ZaraShop\ZaraShop\bin\roslyn\System.AppContext.dll
+C:\Users\Quynh Nhu\Desktop\DACSN\ZaraShop\ZaraShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Quynh Nhu\Desktop\DACSN\ZaraShop\ZaraShop\bin\roslyn\System.Console.dll
+C:\Users\Quynh Nhu\Desktop\DACSN\ZaraShop\ZaraShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Quynh Nhu\Desktop\DACSN\ZaraShop\ZaraShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Quynh Nhu\Desktop\DACSN\ZaraShop\ZaraShop\bin\roslyn\System.IO.Compression.dll
+C:\Users\Quynh Nhu\Desktop\DACSN\ZaraShop\ZaraShop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Quynh Nhu\Desktop\DACSN\ZaraShop\ZaraShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Quynh Nhu\Desktop\DACSN\ZaraShop\ZaraShop\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Quynh Nhu\Desktop\DACSN\ZaraShop\ZaraShop\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Quynh Nhu\Desktop\DACSN\ZaraShop\ZaraShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Quynh Nhu\Desktop\DACSN\ZaraShop\ZaraShop\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Quynh Nhu\Desktop\DACSN\ZaraShop\ZaraShop\bin\roslyn\System.Security.Claims.dll
+C:\Users\Quynh Nhu\Desktop\DACSN\ZaraShop\ZaraShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Quynh Nhu\Desktop\DACSN\ZaraShop\ZaraShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Quynh Nhu\Desktop\DACSN\ZaraShop\ZaraShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Quynh Nhu\Desktop\DACSN\ZaraShop\ZaraShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Quynh Nhu\Desktop\DACSN\ZaraShop\ZaraShop\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Quynh Nhu\Desktop\DACSN\ZaraShop\ZaraShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Quynh Nhu\Desktop\DACSN\ZaraShop\ZaraShop\bin\roslyn\System.ValueTuple.dll
+C:\Users\Quynh Nhu\Desktop\DACSN\ZaraShop\ZaraShop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Quynh Nhu\Desktop\DACSN\ZaraShop\ZaraShop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Quynh Nhu\Desktop\DACSN\ZaraShop\ZaraShop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Quynh Nhu\Desktop\DACSN\ZaraShop\ZaraShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Quynh Nhu\Desktop\DACSN\ZaraShop\ZaraShop\bin\roslyn\vbc.exe
+C:\Users\Quynh Nhu\Desktop\DACSN\ZaraShop\ZaraShop\bin\roslyn\vbc.exe.config
+C:\Users\Quynh Nhu\Desktop\DACSN\ZaraShop\ZaraShop\bin\roslyn\vbc.rsp
+C:\Users\Quynh Nhu\Desktop\DACSN\ZaraShop\ZaraShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Quynh Nhu\Desktop\DACSN\ZaraShop\ZaraShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Quynh Nhu\Desktop\DACSN\ZaraShop\ZaraShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Quynh Nhu\Desktop\DACSN\ZaraShop\ZaraShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Quynh Nhu\Desktop\DACSN\ZaraShop\ZaraShop\obj\Debug\ZaraShop.csprojAssemblyReference.cache
+C:\Users\Quynh Nhu\Desktop\DACSN\ZaraShop\ZaraShop\obj\Debug\ZaraShop.csproj.CoreCompileInputs.cache
+C:\Users\Quynh Nhu\Desktop\DACSN\ZaraShop\ZaraShop\obj\Debug\ZaraShop.csproj.CopyComplete
+C:\Users\Quynh Nhu\Desktop\DACSN\ZaraShop\ZaraShop\obj\Debug\ZaraShop.dll
+C:\Users\Quynh Nhu\Desktop\DACSN\ZaraShop\ZaraShop\obj\Debug\ZaraShop.pdb
+D:\YenNhi\YenNhi\HK1_Nam3\DACSN\ZaraShop\ZaraShop\bin\ZaraShop.dll.config
+D:\YenNhi\YenNhi\HK1_Nam3\DACSN\ZaraShop\ZaraShop\bin\ZaraShop.dll
+D:\YenNhi\YenNhi\HK1_Nam3\DACSN\ZaraShop\ZaraShop\bin\ZaraShop.pdb
+D:\YenNhi\YenNhi\HK1_Nam3\DACSN\ZaraShop\ZaraShop\bin\roslyn\csc.exe
+D:\YenNhi\YenNhi\HK1_Nam3\DACSN\ZaraShop\ZaraShop\bin\roslyn\csc.exe.config
+D:\YenNhi\YenNhi\HK1_Nam3\DACSN\ZaraShop\ZaraShop\bin\roslyn\csc.rsp
+D:\YenNhi\YenNhi\HK1_Nam3\DACSN\ZaraShop\ZaraShop\bin\roslyn\csi.exe
+D:\YenNhi\YenNhi\HK1_Nam3\DACSN\ZaraShop\ZaraShop\bin\roslyn\csi.exe.config
+D:\YenNhi\YenNhi\HK1_Nam3\DACSN\ZaraShop\ZaraShop\bin\roslyn\csi.rsp
+D:\YenNhi\YenNhi\HK1_Nam3\DACSN\ZaraShop\ZaraShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\YenNhi\YenNhi\HK1_Nam3\DACSN\ZaraShop\ZaraShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\YenNhi\YenNhi\HK1_Nam3\DACSN\ZaraShop\ZaraShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\YenNhi\YenNhi\HK1_Nam3\DACSN\ZaraShop\ZaraShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\YenNhi\YenNhi\HK1_Nam3\DACSN\ZaraShop\ZaraShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\YenNhi\YenNhi\HK1_Nam3\DACSN\ZaraShop\ZaraShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\YenNhi\YenNhi\HK1_Nam3\DACSN\ZaraShop\ZaraShop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\YenNhi\YenNhi\HK1_Nam3\DACSN\ZaraShop\ZaraShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\YenNhi\YenNhi\HK1_Nam3\DACSN\ZaraShop\ZaraShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\YenNhi\YenNhi\HK1_Nam3\DACSN\ZaraShop\ZaraShop\bin\roslyn\Microsoft.Managed.Core.targets
+D:\YenNhi\YenNhi\HK1_Nam3\DACSN\ZaraShop\ZaraShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\YenNhi\YenNhi\HK1_Nam3\DACSN\ZaraShop\ZaraShop\bin\roslyn\System.AppContext.dll
+D:\YenNhi\YenNhi\HK1_Nam3\DACSN\ZaraShop\ZaraShop\bin\roslyn\System.Collections.Immutable.dll
+D:\YenNhi\YenNhi\HK1_Nam3\DACSN\ZaraShop\ZaraShop\bin\roslyn\System.Console.dll
+D:\YenNhi\YenNhi\HK1_Nam3\DACSN\ZaraShop\ZaraShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\YenNhi\YenNhi\HK1_Nam3\DACSN\ZaraShop\ZaraShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\YenNhi\YenNhi\HK1_Nam3\DACSN\ZaraShop\ZaraShop\bin\roslyn\System.IO.Compression.dll
+D:\YenNhi\YenNhi\HK1_Nam3\DACSN\ZaraShop\ZaraShop\bin\roslyn\System.IO.FileSystem.dll
+D:\YenNhi\YenNhi\HK1_Nam3\DACSN\ZaraShop\ZaraShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\YenNhi\YenNhi\HK1_Nam3\DACSN\ZaraShop\ZaraShop\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\YenNhi\YenNhi\HK1_Nam3\DACSN\ZaraShop\ZaraShop\bin\roslyn\System.IO.Pipes.dll
+D:\YenNhi\YenNhi\HK1_Nam3\DACSN\ZaraShop\ZaraShop\bin\roslyn\System.Reflection.Metadata.dll
+D:\YenNhi\YenNhi\HK1_Nam3\DACSN\ZaraShop\ZaraShop\bin\roslyn\System.Security.AccessControl.dll
+D:\YenNhi\YenNhi\HK1_Nam3\DACSN\ZaraShop\ZaraShop\bin\roslyn\System.Security.Claims.dll
+D:\YenNhi\YenNhi\HK1_Nam3\DACSN\ZaraShop\ZaraShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\YenNhi\YenNhi\HK1_Nam3\DACSN\ZaraShop\ZaraShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\YenNhi\YenNhi\HK1_Nam3\DACSN\ZaraShop\ZaraShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\YenNhi\YenNhi\HK1_Nam3\DACSN\ZaraShop\ZaraShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\YenNhi\YenNhi\HK1_Nam3\DACSN\ZaraShop\ZaraShop\bin\roslyn\System.Security.Principal.Windows.dll
+D:\YenNhi\YenNhi\HK1_Nam3\DACSN\ZaraShop\ZaraShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\YenNhi\YenNhi\HK1_Nam3\DACSN\ZaraShop\ZaraShop\bin\roslyn\System.ValueTuple.dll
+D:\YenNhi\YenNhi\HK1_Nam3\DACSN\ZaraShop\ZaraShop\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\YenNhi\YenNhi\HK1_Nam3\DACSN\ZaraShop\ZaraShop\bin\roslyn\System.Xml.XmlDocument.dll
+D:\YenNhi\YenNhi\HK1_Nam3\DACSN\ZaraShop\ZaraShop\bin\roslyn\System.Xml.XPath.dll
+D:\YenNhi\YenNhi\HK1_Nam3\DACSN\ZaraShop\ZaraShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\YenNhi\YenNhi\HK1_Nam3\DACSN\ZaraShop\ZaraShop\bin\roslyn\vbc.exe
+D:\YenNhi\YenNhi\HK1_Nam3\DACSN\ZaraShop\ZaraShop\bin\roslyn\vbc.exe.config
+D:\YenNhi\YenNhi\HK1_Nam3\DACSN\ZaraShop\ZaraShop\bin\roslyn\vbc.rsp
+D:\YenNhi\YenNhi\HK1_Nam3\DACSN\ZaraShop\ZaraShop\bin\roslyn\VBCSCompiler.exe
+D:\YenNhi\YenNhi\HK1_Nam3\DACSN\ZaraShop\ZaraShop\bin\roslyn\VBCSCompiler.exe.config
+D:\YenNhi\YenNhi\HK1_Nam3\DACSN\ZaraShop\ZaraShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\YenNhi\YenNhi\HK1_Nam3\DACSN\ZaraShop\ZaraShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\YenNhi\YenNhi\HK1_Nam3\DACSN\ZaraShop\ZaraShop\obj\Debug\ZaraShop.csprojAssemblyReference.cache
+D:\YenNhi\YenNhi\HK1_Nam3\DACSN\ZaraShop\ZaraShop\obj\Debug\ZaraShop.csproj.CoreCompileInputs.cache
+D:\YenNhi\YenNhi\HK1_Nam3\DACSN\ZaraShop\ZaraShop\obj\Debug\ZaraShop.csproj.CopyComplete
+D:\YenNhi\YenNhi\HK1_Nam3\DACSN\ZaraShop\ZaraShop\obj\Debug\ZaraShop.dll
+D:\YenNhi\YenNhi\HK1_Nam3\DACSN\ZaraShop\ZaraShop\obj\Debug\ZaraShop.pdb

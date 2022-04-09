@@ -1,0 +1,60 @@
+﻿p.head {
+    background: #f9f9f9;
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 16px;
+    border-top: 1px solid #dfdfdf;
+    border-bottom: 1px solid #dfdfdf;
+}
+
+a {
+    color: #777;
+}
+
+#mid2 {
+    margin-left: 50px;
+    margin-bottom: 15px;
+    font-size: 16px;
+    color: #777;
+}
+
+.container{
+    padding:0 20px;
+}
+
+table.tbThongTinTK{
+    width:100%;
+}
+
+table.tbThongTinTK input[type=text] {
+    margin-left: 20px;
+    margin-bottom: 10px;
+    width: 270px;
+    height: 20px;
+    border: 1px solid #dfdfdf;
+}
+
+table.tbThongTinGH{
+    width:100%;
+}
+
+table.tbThongTinGH input[type=text] {
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 270px;
+    height: 20px;
+    border: 1px solid #dfdfdf;
+}
+
+table.tbThongTinGH .radio {
+    height: 45px;
+    line-height: 25px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.container input[type=submit]{
+    padding:14px 20px;
+    margin-top: 15px;
+}

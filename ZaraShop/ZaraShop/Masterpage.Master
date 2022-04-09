@@ -1,0 +1,32 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Masterpage.Master.cs" Inherits="ZaraShop.Site1" %>
+
+<%@ Register src="~/Header.ascx" tagname="Header" tagprefix="uc1" %>
+<%@ Register Src="~/Footer.ascx" TagPrefix="uc1" TagName="Footer" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <header>
+            <uc1:Header ID="Header1" runat="server" />
+        </header>
+
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+            </asp:ContentPlaceHolder>
+        </div>
+        
+        <footer>
+            <uc1:Footer runat="server" id="Footer" />
+        </footer>
+        
+    </form>
+</body>
+</html>

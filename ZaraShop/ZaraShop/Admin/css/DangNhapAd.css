@@ -1,0 +1,76 @@
+﻿body {
+    background: url('../images/bg.jpg') no-repeat 0px 0px;
+    background-size: cover;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+.login {
+    width: 460px;
+    min-height: 480px;
+    margin: 0 auto;
+    margin-top: 100px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.container {
+    padding: 42px 35px;
+}
+
+.login .head {
+    color: #1540a7;
+    font-size: 30px;
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.login .nhap{
+    margin-top:20px;
+}
+
+.login input[type=text], input[type=password] {
+    margin-top:5px;
+    border:none;
+    color: inherit;
+    font-family: inherit;
+    font-size: inherit;
+    height: 45px;
+    padding: 0 10px;
+    width: 100%;
+    outline: none;
+    font-size: 13px;
+}
+
+.login .forgot a {
+    float: right;
+    padding-right: 5px;
+    margin-top: 20px;
+    font-style: italic;
+    text-decoration: none;
+    color: #141414;
+}
+
+.login .forgot a:hover{
+    text-decoration:underline;
+}
+
+.login .btnLogin {
+    clear: both;
+}
+
+.login #btnDangNhap {
+    font-size: 16px;
+    text-transform: uppercase;
+    color: #fff;
+    padding: 15px 30px;
+    margin-left: 120px;
+    margin-top: 50px;
+    margin-bottom:20px;
+    background: #305abe;
+    border: none;
+    cursor:pointer;
+}
+
+.login #btnDangNhap:hover{
+    background:#1540a7;
+}

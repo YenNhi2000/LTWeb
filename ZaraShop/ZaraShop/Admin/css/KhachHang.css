@@ -1,0 +1,63 @@
+﻿* {
+    color: #141414;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.container {
+    padding: 0 20px;
+    font-size: 13px;
+}
+
+.left {
+    float: left;
+    width: 260px;
+    border: 1px solid #dfdfdf;
+    min-height: 475px;
+    font-size: 15px;
+}
+
+    .left ul li {
+        padding: 10px 0;
+        padding-left: 20px;
+        list-style: none;
+        background-image: url('../images/arrow.png');
+        background-repeat: no-repeat;
+        background-position: -2px;
+        margin-left: -20px;
+    }
+
+        .left ul li a:hover {
+            color: #469fb5;
+        }
+
+.right {
+    float: right;
+    width: 1040px;
+    border: 1px solid #dfdfdf;
+    min-height: 450px;
+    font: 16px bold;
+}
+
+    .right .head {
+        background: #f9f9f9;
+        padding: 10px;
+        font-size: 18px;
+        font-weight: bold;
+        text-transform: uppercase;
+        border-top: 1px solid #dfdfdf;
+        border-bottom: 1px solid #dfdfdf;
+        text-align: center;
+    }
+
+        .right .head:first-child {
+            border-top: none;
+        }
+
+.khungChuaBang {
+    padding: 10px;
+}

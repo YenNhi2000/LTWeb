@@ -1,0 +1,47 @@
+﻿.container {
+    width:90%;
+    margin:0 auto;
+    color: #777;
+    font-size: 18px;
+}
+
+a {
+    text-decoration: none;
+    color:#777;
+}
+
+#mid2 {
+    margin-left: 50px;
+    font-size: 16px;
+}
+
+#ContentPlaceHolder1_dlSanPham {
+    width: 77%;
+    border-collapse: collapse;
+}
+
+.sanpham {
+    display: block;
+    float: left;
+    margin: 1% 0 1% 2.6%;
+    box-shadow: 0 0 5px #aaa;
+    height: 380px;
+    width: 280px;
+}
+
+.sanpham:first-child {
+    margin-left: 0;
+}
+
+.boxsp {
+    padding: 10px;
+    position: relative;
+}
+
+.product_image {
+    display: block;
+    border: 1px solid #f0f0f0;
+    height: 310px;
+    width: 100%;
+}
+
